@@ -1,1 +1,10 @@
 Dylan y Ara 100% amor 
+
+para subir a git
+######
+
+1. git add .
+2. git commit -m "comentadrio que quieras"
+3. git push origin master
+
+
